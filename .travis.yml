@@ -6,4 +6,4 @@ language: cpp
 compiler: clang
 
 script:
-  - g++ main.cpp
+  - g++ hello.cpp
